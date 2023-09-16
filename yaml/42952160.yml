@@ -1,0 +1,28 @@
+---
+id: 42952160
+name: Split Mirror of the Underworld
+type: Trap Card
+frameType: trap
+desc: "When you take damage from an opponent's attack or card effect: Apply this effect
+  based on the type of damage.\r\n● Battle: Special Summon 1 monster from your GY
+  with ATK less than or equal to the damage you took, and if you do, end the Battle
+  Phase after the Damage Step.\r\n● Effect: Inflict twice that much damage to your
+  opponent.\r\nYou can only activate 1 \"Split Mirror of the Underworld\" per turn."
+race: Normal
+card_sets:
+- set_name: Duelist Nexus
+  set_code: DUNE-EN079
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 42952160
+  image_url: https://images.ygoprodeck.com/images/cards/42952160.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/42952160.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/42952160.jpg
+card_prices:
+- cardmarket_price: '0.05'
+  tcgplayer_price: '0.06'
+  ebay_price: '1.50'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.25'

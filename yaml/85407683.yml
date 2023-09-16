@@ -1,0 +1,28 @@
+---
+id: 85407683
+name: New World Stars
+type: Trap Card
+frameType: trap
+desc: 'While you control "Visas Starfrost", the first time each monster you control
+  would be destroyed by battle each turn, it is not destroyed. During your End Phase,
+  if you control "Visas Starfrost": You can target 1 monster in your GY; shuffle it
+  into the Deck, or, if you control a Tuner Synchro Monster, you can add it to your
+  hand instead. You can only use this effect of "New World Stars" once per turn.'
+race: Continuous
+card_sets:
+- set_name: Duelist Nexus
+  set_code: DUNE-EN071
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 85407683
+  image_url: https://images.ygoprodeck.com/images/cards/85407683.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/85407683.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/85407683.jpg
+card_prices:
+- cardmarket_price: '0.11'
+  tcgplayer_price: '0.05'
+  ebay_price: '1.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.49'

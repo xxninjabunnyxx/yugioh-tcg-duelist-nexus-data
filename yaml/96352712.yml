@@ -1,0 +1,27 @@
+---
+id: 96352712
+name: Overexaggeration
+type: Spell Card
+frameType: spell
+desc: "At the start of the Damage Step, if a monster battles another monster: Activate
+  1 of these effects;\r\n● Change the attacking monster to Defense Position.\r\n●
+  Return the attack target to the hand.\r\n● Destroy both battling monsters.\r\nYou
+  can only activate 1 \"Overexaggeration\" per turn."
+race: Quick-Play
+card_sets:
+- set_name: Duelist Nexus
+  set_code: DUNE-EN065
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 96352712
+  image_url: https://images.ygoprodeck.com/images/cards/96352712.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/96352712.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/96352712.jpg
+card_prices:
+- cardmarket_price: '0.05'
+  tcgplayer_price: '0.04'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.25'

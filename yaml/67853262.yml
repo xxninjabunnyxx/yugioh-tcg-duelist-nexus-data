@@ -1,0 +1,31 @@
+---
+id: 67853262
+name: Magician of Faithfulness
+type: Flip Effect Monster
+frameType: effect
+desc: 'FLIP: You can target 1 Spell in your GY; add it to your hand, then you can
+  Special Summon 1 "Magician of Faith" or "Magician of Faithfulness" from your Deck
+  in face-down Defense Position. You can only use this effect of "Magician of Faithfulness"
+  once per turn.'
+atk: 600
+def: 800
+level: 5
+race: Spellcaster
+attribute: LIGHT
+card_sets:
+- set_name: Duelist Nexus
+  set_code: DUNE-EN098
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '0'
+card_images:
+- id: 67853262
+  image_url: https://images.ygoprodeck.com/images/cards/67853262.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/67853262.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/67853262.jpg
+card_prices:
+- cardmarket_price: '0.18'
+  tcgplayer_price: '0.18'
+  ebay_price: '3.50'
+  amazon_price: '0.00'
+  coolstuffinc_price: '1.49'

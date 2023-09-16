@@ -1,0 +1,34 @@
+---
+id: 92565383
+name: Cornfield Coatl
+type: Effect Monster
+frameType: effect
+desc: 'If this card battles a monster, neither can be destroyed by that battle. You
+  can only use each of the following effects of "Cornfield Coatl" once per turn. You
+  can discard this card; add 1 monster that mentions "Chimera Fusion" from your Deck
+  to your hand, except "Cornfield Coatl". When your opponent activates a card or effect
+  that targets a card(s) you control, while you control "Chimera the Flying Mythical
+  Beast" (Quick Effect): You can banish this card from your field or GY; negate that
+  effect, and if you do, destroy that card.'
+atk: 500
+def: 1700
+level: 4
+race: Illusion
+attribute: WIND
+card_sets:
+- set_name: Duelist Nexus
+  set_code: DUNE-EN005
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 92565383
+  image_url: https://images.ygoprodeck.com/images/cards/92565383.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/92565383.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/92565383.jpg
+card_prices:
+- cardmarket_price: '0.13'
+  tcgplayer_price: '0.15'
+  ebay_price: '2.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.25'

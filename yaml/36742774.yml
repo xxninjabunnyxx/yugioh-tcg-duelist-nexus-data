@@ -1,0 +1,31 @@
+---
+id: 36742774
+name: Synchro World
+type: Spell Card
+frameType: spell
+desc: "Each time a monster(s) is Synchro Summoned, place 2 Signal Counters on this
+  card. You can remove 4, 7, or 10 Signal Counters from your field to activate 1 of
+  these effects;\r\n● 4: Increase or reduce the Level of 1 face-up monster you control
+  by 1.\r\n● 7: Special Summon 1 Tuner from your GY.\r\n● 10: Special Summon 1 Synchro
+  Monster from your GY.\r\nIf this card in its owner's control is destroyed by an
+  opponent's card effect: You can Special Summon 1 \"Crimson Dragon\" from your Extra
+  Deck."
+race: Field
+archetype: Synchro
+card_sets:
+- set_name: Duelist Nexus
+  set_code: DUNE-EN051
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 36742774
+  image_url: https://images.ygoprodeck.com/images/cards/36742774.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/36742774.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/36742774.jpg
+card_prices:
+- cardmarket_price: '0.08'
+  tcgplayer_price: '0.11'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.25'
